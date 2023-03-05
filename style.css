@@ -1,0 +1,19 @@
+body {
+
+    background-image: url("photo1.jpg");
+     background-repeat: no-repeat;
+     background-size: 100%;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: /*#17D4FE;*/ chocolate;
+    font-size: 60px;
+    font-family: /*Orbitron*/ Monospace;
+    letter-spacing: 7px;
+    margin: auto;
+    margin-left: -30px;
+   }
